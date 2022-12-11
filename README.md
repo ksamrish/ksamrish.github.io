@@ -1,2 +1,6 @@
-# ksamrish.github.io
-Portfolio
+# Portfolio
+My website portfolio
+
+## Author
+* Amrish Kiri Suresh (ksamrish.github.io)
+
